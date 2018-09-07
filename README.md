@@ -5,7 +5,7 @@ Download the Files<br/>
 Create a Dockerfile<br/><br/>
 
 Build the Dockerfile<br/>
-docker -p 80:80 <name><br/><br/>
+docker -p 80:80 \<name\><br/><br/>
 
 Run<br/>
 docker run -p 127.0.0.1:80:80 <name><br/><br/>
